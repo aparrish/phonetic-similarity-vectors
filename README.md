@@ -26,6 +26,10 @@ For Annoy:
     conda config --add channels conda-forge
     conda install python-annoy
 
+(Note: You don't need any of this stuff if you just want to play around with
+the pre-computed vectors! Though I definitely recommend using a fast
+nearest-neighbor search library like Annoy.)
+
 ## Files
 
 ### CMU Dict and pre-computed vectors
@@ -85,7 +89,7 @@ bigram analysis of the dictionary.
   sound analogies, averages, symbolism tinting, etc.)
 
 Still forthcoming: An example of how to use the embeddings for longer stretches
-of text.
+of text, as in the "random walk" example in the paper.
 
 ## License
 
