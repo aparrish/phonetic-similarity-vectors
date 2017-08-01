@@ -95,4 +95,5 @@ of text, as in the "random walk" example in the paper.
 
 See `LICENSE`, which applies to everything in this repository except the copy
 of the CMU Pronouncing Dictionary, which is used under the terms of their
-license (included in the header of the file).
+license (included in the header of the file), and the data from Vitz and
+Winkler, for which I claim fair use.
