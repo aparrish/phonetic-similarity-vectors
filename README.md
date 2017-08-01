@@ -86,3 +86,9 @@ bigram analysis of the dictionary.
 
 Still forthcoming: An example of how to use the embeddings for longer stretches
 of text.
+
+## License
+
+See `LICENSE`, which applies to everything in this repository except the copy
+of the CMU Pronouncing Dictionary, which is used under the terms of their
+license (included in the header of the file).
