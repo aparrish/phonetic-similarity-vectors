@@ -1,8 +1,10 @@
 # Poetic sound similarity vectors using phonetic features
 
 This is the source code used to implement the algorithms, experiments and
-applications in my forthcoming paper, "Poetic sound similarity vectors using
+applications in my paper, "Poetic sound similarity vectors using
 phonetic features." The source code is written in Python.
+
+You can [read the paper here](https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15879). [EXAG posted a summary of the paper as well](http://www.exag.org/paper-summaries/#paper07), and you can watch [this talk that I gave at Strange Loop 2017](https://www.youtube.com/watch?v=L3D0JEA1Jdc) that discusses much of the paper's content in an accessible way.
 
 ## Dependencies
 
